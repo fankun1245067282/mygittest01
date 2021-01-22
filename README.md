@@ -11,3 +11,4 @@ modify config file2
 modify config file3
 modify config file4
 modify config file5
+test pull
