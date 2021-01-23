@@ -1,2 +1,5 @@
 test diff pull.txt
 xxx
+test commit -a
+test commit -m
+git reset HEAD filename
